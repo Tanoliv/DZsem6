@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\bin\Debug\net6.0\DzSem6Zadanie43.exe
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\bin\Debug\net6.0\DzSem6Zadanie43.deps.json
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\bin\Debug\net6.0\DzSem6Zadanie43.runtimeconfig.json
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\bin\Debug\net6.0\DzSem6Zadanie43.dll
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\bin\Debug\net6.0\DzSem6Zadanie43.pdb
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\DzSem6Zadanie43.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\DzSem6Zadanie43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\DzSem6Zadanie43.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\DzSem6Zadanie43.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\DzSem6Zadanie43.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\DzSem6Zadanie43.dll
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\refint\DzSem6Zadanie43.dll
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\DzSem6Zadanie43.pdb
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\DzSem6Zadanie43.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DZ_Sem6\DzSem6Zadanie43\obj\Debug\net6.0\ref\DzSem6Zadanie43.dll
